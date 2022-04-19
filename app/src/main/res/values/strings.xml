@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application11</string>
+    <string name="title_home">Home</string>
+    <string name="title_statics">Statics</string>
+    <string name="title_routines">Routines</string>
+    <string name="title_settings">Settings</string>
+</resources>
